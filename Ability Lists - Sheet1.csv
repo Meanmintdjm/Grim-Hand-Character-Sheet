@@ -1,0 +1,26 @@
+Ability_Level,Ability_Name,Ability_Description,Effect,Image
+Novice,Whisper of Chance,Subtle influence on dealt cards or outcomes,The First flopped card will match your Affinity,card_flip.webp
+Novice,Desperate Gambit,A small risk for a small reward,"Sacrafice your smallest held card, for that number of gold",pouch_add.webp
+Novice,Flicker of Insight,Gaining minor information or a slight tactical edge,Before combat  you may peak at the first card of the Grim Deck,cards_seek_top.webp
+Novice,Steadfast Stance,Basic resilience or minor damage mitigation,"If Threats Attack is one higher than yours, receive no damage",shield.webp
+Novice,Verdant Spark,"A minor, immediate benefit from the environment or a quick burst of energy",Gain 1 LE from any Affinity Aligned Explore Cards,suit_hearts.webp
+Adept,Shadowed Draw,Manipulating a single card draw or replacement,"Once the flop has been set, you may choose any 1 card in the Grim Deck and replace it with any 1 of the flopped cards. The Grim Deck must be re-shuffled before commencement. ",cards_collection_outline.webp
+Adept,Bone Deep Resolve,"Enhanced resilience, shrugging off minor effects","Once per combat round, any damage taken can be reduced by the number of Bone Affinity cards on the community board.",shield.webp
+Adept,Crimson Bargain,A small trade-off of Life Essence for an immediate benefit,"Once per combat round, you may take 1 LE and add to your AT",sword.webp
+Adept,Ironclad Will,Mental fortitude against Doubt or Corruption,Roll a D6 when your Doubt or Corruption = 5. A roll of a 1 or 6 will reduce them by 1,dice_6.webp
+Adept,Thorned Path,"Nature's minor retaliatory or protective aspect, perhaps dealing minor damage on being attacked","Once per combat round, if defeated deduct 1 LE from the threat for evey Nature Affinity card on the community board.",shield.webp
+Veteran,Flops Embrace,Direct manipulation of a single card on the Flop,"Once per combat round, for your hand only you may change any flopped card to any card of your choosing even if its in play",cards_collection_outline.webp
+Veteran,Turn of the Tide,"Shifting momentum in a round, perhaps by re-rolling a small effect",You may choose to re-draw the turn card,card_flip.webp
+Veteran,Rivers Last Stand,"A clutch ability usable only on the River, potentially a desperate save",You may choose to re-draw the river card,card_flip.webp
+Veteran,Graves Resilience,"Enduring beyond normal limits, perhaps a temporary shield",You are impervious to damage on the flop.,shield.webp
+Veteran,Wildhearts Fury,"A burst of natural power, dealing moderate damage or a strong buff",Deal an addition 1LE of damage for every Blood Affinity card on the flop.,sword.webp
+Master,Hand of Destiny,Major manipulation of your poker hand or the Threat's,You may use all of your 4 hole cards during combat,cards_collection_outline.webp
+Master,Essence Drain,Powerful life-siphoning from a Threat or gaining XP from a specific action,Immediatley reduce threat LE by 3,sword.webp
+Master,Void Step,"Evasive maneuvers, temporarily avoiding damage, or manipulating card order",At the river you can swap out the river card with any of the remaining cards in the Grim Deck,card_flip.webp
+Master,Adamant Bulwark,"Near impenetrable defense, reducing significant incoming damage",Reduce all damage by Half rounded up.,suit_hearts.webp
+Master,Primal Dominion,"Control over natural forces, affecting multiple cards or elements on the board",Redraw the flop upto 3 times. Unused cards are returnded to the Grim Deck and Shuffled.,cards_return.webp
+Legendary,Grim Hand Ascendancy,"Ultimate poker manipulation, e.g., changing multiple cards or forcing specific draws","Once per combat, you may choose the turn and river card from the Grim Deck",card_flip.webp
+Legendary,Souls Pact,"A powerful, permanent sacrifice for an overwhelming advantage",You may reduce your LE and and convert into  Direct Damage,suit_hearts.webp
+Legendary,Echoes of Oblivion,"Devastating shadow power, potentially eliminating a Threat's ability or a card",Nullify all Shadow Affinity card effects.,spinner.webp
+Legendary,Unbroken Bastion,"Absolute defense, making you immune to certain types of damage for a round",You are impervious to all hands apart from 4 of a Kind up,shield.webp
+Legendary,World-Root Weaving,"Grand scale nature manipulation, affecting multiple aspects of the game or providing massive healing/buffs",Gain 2 LE for every Alligned affinity card on the community board,suit_hearts.webp
