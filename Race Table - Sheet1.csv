@@ -1,0 +1,6 @@
+Name,life,LifeImage,strength,StrengthImage,agility,AgilityImage,gold,GoldImage,ap,APImage,attackContribution,ATImage,Ability,ImageA
+Human,5,suit_hearts.webp,2,structure_gate.webp,2,arrow_cross.webp,10,pouch.webp,4,hand_card.webp,2,sword.webp,**Adaptive Spirit:** Gain +1 to the Rank of one of your hole cards during the first round of any **Exploration** encounter.,Human.jpg
+Dwarf,6,suit_hearts.webp,3,structure_gate.webp,1,arrow_cross.webp,8,pouch.webp,3,hand_card.webp,3,sword.webp,"**Stonewall Resolve:** Once per **Combat**, when you would take damage, you may reduce it by 1 (to a minimum of 0).",Dwarf.jpg
+Elf,4,suit_hearts.webp,1,structure_gate.webp,3,arrow_cross.webp,12,pouch.webp,5,hand_card.webp,2,sword.webp,"**Whisper of the Wilds:** Once per **Exploration**, you may spend 1 **Action Point** to re-draw one of the community cards (The Unveiling of Fate).",Elf.jpg
+Orc,7,suit_hearts.webp,4,structure_gate.webp,0,arrow_cross.webp,5,pouch.webp,3,hand_card.webp,3,sword.webp,"**Brutal Charge:** If you win a **Combat** round with a **Three of a Kind** or better, deal +1 additional damage.",Orc.jpg
+Goblin,3,suit_hearts.webp,1,structure_gate.webp,4,arrow_cross.webp,15,pouch.webp,4,hand_card.webp,1,sword.webp,"**Nimble Escape:** Once per **Combat**, if you would be defeated, you may instead retreat, losing 2 Life Essence and ending the combat.",Goblin.jpg

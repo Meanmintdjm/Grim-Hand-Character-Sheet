@@ -1,0 +1,7 @@
+Stature,at,life,Ability
+Recruit,0,0,none
+Novice,0,1,none
+Adept,1,1,none
+Veteren,2,1,none
+Master,2,1,1 Addtional Hole Card
+Legend,2,1,"Once per combat, re-deal flop"
