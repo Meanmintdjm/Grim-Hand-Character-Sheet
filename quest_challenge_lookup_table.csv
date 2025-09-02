@@ -1,0 +1,22 @@
+Roll,Recruit,Novice,Adept,Veteran,Master,Legend
+4,Fate Roll,Fate Roll,Fate Roll,Fate Roll,Fate Roll,Fate Roll
+5,Fate Roll,Fate Roll,Fate Roll,Fate Roll,Fate Roll,Sacrifice Equipment
+6,Fate Roll,Fate Roll,Fate Roll,Sacrifice Equipment,Sacrifice Equipment,Sacrifice Equipment
+7,Fate Roll,Fate Roll,Sacrifice Equipment,Sacrifice Equipment,Sacrifice Equipment,Sacrifice Equipment
+8,Fate Roll,Sacrifice Equipment,Sacrifice Equipment,Sacrifice Equipment,Sacrifice Equipment,Gold Offering
+9,Sacrifice Equipment,Sacrifice Equipment,Sacrifice Equipment,Sacrifice Equipment,Gold Offering,Gold Offering
+10,Sacrifice Equipment,Sacrifice Equipment,Sacrifice Equipment,Gold Offering,Gold Offering,Gold Offering
+11,Sacrifice Equipment,Sacrifice Equipment,Gold Offering,Gold Offering,Gold Offering,Gold Offering
+12,Sacrifice Equipment,Gold Offering,Gold Offering,Gold Offering,Gold Offering,Affinity Check
+13,Gold Offering,Gold Offering,Gold Offering,Gold Offering,Affinity Check,Affinity Check
+14,Gold Offering,Gold Offering,Gold Offering,Affinity Check,Affinity Check,Affinity Check
+15,Gold Offering,Gold Offering,Affinity Check,Affinity Check,Affinity Check,Poker Hand Challenge
+16,Gold Offering,Affinity Check,Affinity Check,Affinity Check,Poker Hand Challenge,Poker Hand Challenge
+17,Affinity Check,Affinity Check,Affinity Check,Poker Hand Challenge,Poker Hand Challenge,Poker Hand Challenge
+18,Affinity Check,Affinity Check,Poker Hand Challenge,Poker Hand Challenge,Poker Hand Challenge,Threat Manifestation
+19,Affinity Check,Poker Hand Challenge,Poker Hand Challenge,Poker Hand Challenge,Threat Manifestation,Threat Manifestation
+20,Poker Hand Challenge,Poker Hand Challenge,Poker Hand Challenge,Threat Manifestation,Threat Manifestation,Threat Manifestation
+21,Poker Hand Challenge,Poker Hand Challenge,Threat Manifestation,Threat Manifestation,Threat Manifestation,Threat Manifestation
+22,Poker Hand Challenge,Threat Manifestation,Threat Manifestation,Threat Manifestation,Threat Manifestation,Threat Manifestation
+23,Threat Manifestation,Threat Manifestation,Threat Manifestation,Threat Manifestation,Threat Manifestation,Threat Manifestation
+24,Threat Manifestation,Threat Manifestation,Threat Manifestation,Threat Manifestation,Threat Manifestation,Threat Manifestation
