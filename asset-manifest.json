@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Grim-Hand-Character-Sheet/static/css/main.617e7567.css",
-    "main.js": "/Grim-Hand-Character-Sheet/static/js/main.8b6e51f4.js",
+    "main.js": "/Grim-Hand-Character-Sheet/static/js/main.d2a4b6b3.js",
     "static/js/453.236f244f.chunk.js": "/Grim-Hand-Character-Sheet/static/js/453.236f244f.chunk.js",
     "index.html": "/Grim-Hand-Character-Sheet/index.html",
     "main.617e7567.css.map": "/Grim-Hand-Character-Sheet/static/css/main.617e7567.css.map",
-    "main.8b6e51f4.js.map": "/Grim-Hand-Character-Sheet/static/js/main.8b6e51f4.js.map",
+    "main.d2a4b6b3.js.map": "/Grim-Hand-Character-Sheet/static/js/main.d2a4b6b3.js.map",
     "453.236f244f.chunk.js.map": "/Grim-Hand-Character-Sheet/static/js/453.236f244f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.617e7567.css",
-    "static/js/main.8b6e51f4.js"
+    "static/js/main.d2a4b6b3.js"
   ]
 }
